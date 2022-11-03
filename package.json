@@ -41,7 +41,7 @@
     "date-fns": "^2.10.0",
     "excerpt-html": "^1.2.1",
     "file-saver": "^2.0.2",
-    "firebase": "^8.2.9",
+    "firebase": "^8.10.1",
     "generate-google-calendar-url": "^0.0.2",
     "google-maps": "^4.3.3",
     "hamburgers": "^1.1.3",
